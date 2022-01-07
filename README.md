@@ -1,6 +1,6 @@
 # ***Rasperry-Pi-Pico-Micropython :zap:***
 This repository will contain various examples of how to use MicroPython with `Rasperry Pi Pico`. The software was developed in `Thonny` and `README` in `Visual Studio Code`. 
-* Table of Contents
+## ***Table of Contents***
   * [Analog to Digital Converter (ADC)](https://github.com/jminjares4/Rasperry-Pi-Pico-Micropython/tree/main/Analog%20to%20Digital%20Converter%20(ADC))
   * [File System](https://github.com/jminjares4/Rasperry-Pi-Pico-Micropython/tree/main/File-system)
   * [General Purpose Input and Ouput (GPIO)](https://github.com/jminjares4/Rasperry-Pi-Pico-Micropython/tree/main/General%20Purpose%20Input%20and%20Output%20(GPIO))
