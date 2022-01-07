@@ -8,7 +8,7 @@ This repository will contain various examples of how to use MicroPython with `Ra
   * [Pulse Width Modulation (PWM)](https://github.com/jminjares4/Rasperry-Pi-Pico-Micropython/tree/main/Pulse%20Width%20Modulation%20(PWM))
   * [Serial Peripheral Interface (SPI)](https://github.com/jminjares4/Rasperry-Pi-Pico-Micropython/tree/main/Serial%20Peripheral%20Interface%20(SPI))
 ## **Microcontroller**
-![Rasppery Pi Pico](https://img.shields.io/static/v1?&message=Pico&color=A22846&logo=Raspberry+Pi&logoColor=FFFFFF&label=)
+![Rasppery Pi Pico](https://img.shields.io/static/v1?&message=Rasperry+Pi+Pico&color=A22846&logo=Raspberry+Pi&logoColor=FFFFFF&label=)
 ## **Software**
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=764ABC)
 
